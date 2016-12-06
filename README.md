@@ -1,4 +1,4 @@
-# Desafio-TagView
-Arquivos com a resposta para o desafio da empresa TagView.
+# 30SecMusic
+Site produzido com a api do spotify.
 
 Caio Lima
